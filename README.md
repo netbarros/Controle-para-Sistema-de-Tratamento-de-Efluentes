@@ -43,7 +43,3 @@ voltado para o tratamento de água e efluentes. incorpora os conceitos de Soluç
 
 #Convite
 Convidamos desenvolvedores, empresas e indivíduos interessados em transformar suas operações de tratamento de efluentes a experimentar e aprimorar o sistema.
-
-Acesse [EP Tech](https://grupoep.com.br/ep-tech/) para obter mais informações e começar a usar o STEP em suas operações.
-
-Participe desta inovação e leve suas operações de tratamento de efluentes para o próximo nível com o STEP.
